@@ -50,7 +50,7 @@ With the [AI SDK](https://ai-sdk.dev/docs/introduction), you can also switch to 
 
 You can deploy your own version of the Next.js AI Chatbot to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
+[![Deploy by_Hasan_Mahmood](https://vercel.com/button)](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
 
 ## Running locally
 

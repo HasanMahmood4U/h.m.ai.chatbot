@@ -1,6 +1,6 @@
 Deployoy<img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h4 align="center">Hasan Mahmood</h4>
-</a>
+
 
 <p align="center">
     H.M.ai.Chatbot is a free, open-source 

@@ -26,7 +26,7 @@ Deployoy<img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/o
   - Simple and secure authentication
 
  
-### AI Gateway Authentication
+#AI Gateway Authentication
 With the [H.M.Ai.Chatbot](https://ai-sdk.dev/docs/introduction), you can also switch to direct LLM providers like [OpenAI](https://openai.com), [Anthropic](https://anthropic.com), [Cohere](https://cohere.com/), and [many more](https://ai-sdk.dev/providers/ai-sdk-providers) with just a few lines of code.
 ## Deploy By Hasan Mahmood
 

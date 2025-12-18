@@ -25,12 +25,9 @@ Deployoy<img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/o
 - [Auth.js](https://authjs.dev)
   - Simple and secure authentication
 
- 
 #AI Gateway Authentication
 With the [H.M.Ai.Chatbot](https://ai-sdk.dev/docs/introduction), you can also switch to direct LLM providers like [OpenAI](https://openai.com), [Anthropic](https://anthropic.com), [Cohere](https://cohere.com/), and [many more](https://ai-sdk.dev/providers/ai-sdk-providers) with just a few lines of code.
 ## Deploy By Hasan Mahmood
-
- 
 
 ## Running locally
 
@@ -42,6 +39,5 @@ You will need to use the environment variables [defined in `.env.example`](.env.
 pnpm install
 pnpm db:migrate # Setup database or apply latest database changes
 pnpm dev
-```
 
 Your app template should now be running 

@@ -28,7 +28,6 @@ With the [H.M.Ai.Chatbot](https://ai-sdk.dev/docs/introduction), you can also sw
 ## Deploy By Hasan Mahmood
 
 ## Running locally
-
 You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js AI Chatbot. It's recommended you use [H.M.ai.chatbot] .
 
 > Note: You should not commit your `.env` file or it will expose secrets that will allow others to control access to your various AI and authentication provider accounts.

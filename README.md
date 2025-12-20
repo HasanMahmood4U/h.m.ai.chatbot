@@ -4,7 +4,9 @@ Deployoy<img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/o
     H.M.ai.Chatbot is a free, open-source 
 </p>
 <br/>
+
 ## Features
+
 - [Next.js](https://nextjs.org) App Router
   - Advanced routing for seamless navigation and performance
   - React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
@@ -15,14 +17,19 @@ Deployoy<img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/o
 - [shadcn/ui](https://ui.shadcn.com)
   - Styling with [Tailwind CSS](https://tailwindcss.com)
   - Component primitives from [Radix UI](https://radix-ui.com) for accessibility and flexibility
+  - 
 - Data Persistence
+- 
   - [Neon Serverless Postgres](https://vercel.com/marketplace/neon) for saving chat history and user data
   - [Vercel Blob](https://vercel.com/storage/blob) for efficient file storage
 - [Auth.js](https://authjs.dev)
   - Simple and secure authentication
 #AI Gateway Authentication
 With the [H.M.Ai.Chatbot](https://ai-sdk.dev/docs/introduction), you can also switch to direct LLM providers like [OpenAI](https://openai.com), [Anthropic](https://anthropic.com), [Cohere](https://cohere.com/), and [many more](https://ai-sdk.dev/providers/ai-sdk-providers) with just a few lines of code.
+
+
 ## Deploy By Hasan Mahmood
+
 
 ## Running locally
 You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js AI Chatbot. It's recommended you use [H.M.ai.chatbot] .

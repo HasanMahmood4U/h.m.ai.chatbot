@@ -6,7 +6,6 @@ Deployoy<img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/o
 <br/>
 
 ## Features
-
 - [Next.js](https://nextjs.org) App Router
   - Advanced routing for seamless navigation and performance
   - React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
@@ -19,7 +18,14 @@ Deployoy<img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/o
   - Component primitives from [Radix UI](https://radix-ui.com) for accessibility and flexibility
   - 
 - Data Persistence
-- 
+
+-
+-
+-
+-
+-
+-
+- -
   - [Neon Serverless Postgres](https://vercel.com/marketplace/neon) for saving chat history and user data
   - [Vercel Blob](https://vercel.com/storage/blob) for efficient file storage
 - [Auth.js](https://authjs.dev)
